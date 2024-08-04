@@ -1,0 +1,13 @@
+---
+import Section from "../Section.astro"
+
+import { dataCV } from "@/utils/cv"
+const { basics } = dataCV(Astro.url.pathname)
+const { summary } = basics
+---
+
+<Section title="Sobre mí">
+  <p>
+    {summary}
+  </p>
+</Section>

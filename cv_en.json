@@ -1,0 +1,274 @@
+{
+  "basics": {
+    "name": "Bryan Alejandro Castro",
+    "label": "Full Stack & Mobile Developer with over 3 years of experience",
+    "image": "/bryan.webp",
+    "email": "info@bryancastro.dev",
+    "phone": "+593 989298066",
+    "url": "https://bryancastro.dev",
+    "summary": "+3 years of experience as a Software Developer. Currently, I am a Frontend & Mobile Developer at MyCodedMind. I live in Cuenca, Ecuador. I have worked in various environments: from mobile application development and deployment, web systems, to the creation of REST APIs, using different technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "010101",
+      "city": "Cuenca",
+      "countryCode": "EC",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bryan-castro-ec",
+        "url": "https://www.linkedin.com/in/bryan-castro-ec"
+      },
+      {
+        "network": "GitHub",
+        "username": "bratt-ec",
+        "url": "https://github.com/Bratt-ec"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MyCodedMind",
+      "position": "Frontend & Mobile Developer",
+      "url": "https://mycodedmind.com/agency",
+      "startDate": "05/2021",
+      "endDate": null,
+      "summary": "We use the SCRUM methodology for project development. I specialize in developing mobile applications for Android and iOS using technologies like Flutter, Angular, RxJS, Ionic, Capacitor, and TypeScript. My responsibilities include implementing applications on Google Play and the App Store, maintaining and updating legacy code, and integrating various tools and platforms, including Google Cloud Console, Google Analytics, Firebase, Facebook SDK, in-app purchases, AppleID, Stripe, and push and local notifications.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "bryancastro.dev",
+      "position": "Freelance Software Developer",
+      "url": "https://bryancastro.dev",
+      "startDate": "01/2020",
+      "endDate": null,
+      "summary": "Develop applications and websites for various clients, tailored to their needs and specifications, using a variety of technologies. For mobile development, I use React Native, Capacitor, Ionic, and Flutter. For web development, I work with ReactJS, Angular, HTML, CSS, JavaScript, PHP, and NodeJS. For desktop development, I use ElectronJS. Additionally, I incorporate Firebase, MySQL, and MongoDB for other functionalities.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "NativApps",
+      "position": "Freelance Mobile Developer",
+      "url": "https://nativapps.com/",
+      "startDate": "09/2022",
+      "endDate": "10/2022",
+      "summary": "Made several fixes to the Oh! Foodie app, including adjustments and fixes in authentication with AppleID and Google Auth. Managed the project in Firebase, fixed bugs in the app's UI, and handled compilation and deployment in test environments on the Apple Store and Google Play.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Proguercom C.A",
+      "position": "Mobile Developer",
+      "url": "https://www.emis.com/php/company-profile/EC/Productos_Guerrero_Proguercom_CA_es_9658644.html",
+      "startDate": "01/2021",
+      "endDate": "03/2021",
+      "summary": "Developed and maintained CUUPOM, a discount coupons app for iOS and Android, primarily using React Native. This involved integrating tools like Firebase (FireStore, FirebaseAuth), Google Cloud (Google Auth), and Facebook SDK. Additionally, developed web applications using technologies such as HTML, CSS, JavaScript, ReactJS, and Firebase.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Instituto Superior Tecnológico José Ochoa León",
+      "position": "Jr Frontend Developer",
+      "url": "https://web.archive.org/web/20201031223921/http://www.istjol.edu.ec/",
+      "startDate": "04/2018",
+      "endDate": "05/2018",
+      "summary": "Participated in the layout and development of the informational website for the Instituto Superior Tecnológico 'José Ochoa León', using technologies such as HTML, CSS, Bootstrap, jQuery, and JavaScript.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Instituto Superior Tecnológico 'José Ochoa León'",
+    "url": "https://instipp.edu.ec/",
+    "area": "SYSTEM ANALYSIS TECHNOLOGIST",
+    "studyType": "Bachelor",
+    "startDate": "2016",
+    "endDate": "2019",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [
+    {
+      "name": "Ionic",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Capacitor",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Sass",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Databases", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "A2"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fundación FUNCAA",
+      "isActive": true,
+      "description": "Informational and manageable website for the Fundación Corazón de Amor en Acción.",
+      "highlights": [
+        "Web",
+        "Web Design",
+        "Multimedia Management"
+      ],
+      "url": "https://www.funcaa-ecuador.org"
+    },
+    {
+      "name": "The Aroma Trace",
+      "isActive": true,
+      "description": "Update and maintenance of the main application, The Aroma Trace",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Home Automation"
+      ],
+      "url": "https://thearomatrace.com"
+    },
+    {
+      "name": "Benítez on the Road",
+      "isActive": true,
+      "description": "Application to view and book vehicles from Benitez Chrysler Humacao.",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Stripe"
+      ],
+      "url": "https://apps.apple.com/us/app/ben%C3%ADtez-on-the-road/id1630843580"
+    },
+    {
+      "name": "AudioStories",
+      "isActive": false,
+      "description": "Audiobook application promoting Ecuadorian classic literature",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Audiobooks"
+      ],
+      "url": "https://audiostories.site/"
+    },
+    {
+      "name": "Oh! Foodie",
+      "isActive": false,
+      "description": "Application that allows users to view restaurant information, dishes, location, and reservations.",
+      "highlights": [
+        "Android",
+        "iOS",
+        "NativApps"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "VibesOn - Sharing economy App",
+      "isActive": false,
+      "description": "Collaborative economy app that connects hosts and attendees, allowing discovery of exclusive parties and experiences",
+      "highlights": [
+        "Events",
+        "MyCodedMind",
+        "Android",
+        "iOS"
+      ],
+      "url": "https://vibeson.app/"
+    }
+  ]
+}

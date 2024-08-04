@@ -1,0 +1,274 @@
+{
+  "basics": {
+    "name": "Bryan Alejandro Castro",
+    "label": "Full Stack & Mobile Developer con más de 3 años de experiencia",
+    "image": "/bryan.webp",
+    "email": "info@bryancastro.dev",
+    "phone": "+593 989298066",
+    "url": "https://bryancastro.dev",
+    "summary": "+3 años de experiencia como Software Developer. Actualmente soy Frontend & Mobile Developer en MyCodedMind. Vivo en Cuenca, Ecuador. He trabajado en diferentes entornos: desde el desarrollo y despliegue de aplicaciones móviles, sistemas web, hasta la elaboración de API's REST, usando diferentes tecnologías.",
+    "location": {
+      "address": "",
+      "postalCode": "010101",
+      "city": "Cuenca",
+      "countryCode": "EC",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bryan-castro-ec",
+        "url": "https://www.linkedin.com/in/bryan-castro-ec"
+      },
+      {
+        "network": "GitHub",
+        "username": "bratt-ec",
+        "url": "https://github.com/Bratt-ec"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MyCodedMind",
+      "position": "Frontend & Mobile Developer",
+      "url": "https://mycodedmind.com/agency",
+      "startDate": "05/2021",
+      "endDate": null,
+      "summary": "Utilizamos la metodología SCRUM para el desarrollo de proyectos. Me especializo en el desarrollo de aplicaciones móviles para Android e iOS utilizando tecnologías como Flutter, Angular, RxJS, Ionic, Capacitor y TypeScript. Mis responsabilidades incluyen la implementación de aplicaciones en Google Play y App Store, el mantenimiento y la actualización de código heredado, y la integración de diversas herramientas y plataformas, incluyendo Google Cloud Console, Google Analytics, Firebase, Facebook SDK, compras dentro de la aplicación, AppleID, Stripe, y notificaciones push y locales.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "bryancastro.dev",
+      "position": "Freelance Software Developer",
+      "url": "https://bryancastro.dev",
+      "startDate": "01/2020",
+      "endDate": null,
+      "summary": "Desarrollo aplicaciones y sitios web para varios clientes, adaptados a sus necesidades y especificaciones, utilizando una variedad de tecnologías. Para el desarrollo móvil, utilizo React Native, Capacitor, Ionic y Flutter. Para el desarrollo web, trabajo con ReactJS, Angular, HTML, CSS, JavaScript, PHP y NodeJS. En el desarrollo de escritorio, uso ElectronJS. Además, incorporo Firebase, MySQL y MongoDB para otras funcionalidades.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "NativApps",
+      "position": "Freelance Mobile Developer",
+      "url": "https://nativapps.com/",
+      "startDate": "09/2022",
+      "endDate": "10/2022",
+      "summary": "Realicé varias correcciones en la aplicación Oh! Foodie, incluyendo ajustes y soluciones en la autenticación con AppleID y Google Auth. Gestioné el proyecto en Firebase, corregí errores en la interfaz de usuario de la aplicación y me encargué de la compilación y el despliegue en entornos de prueba en Apple Store y Google Play.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Proguercom C.A",
+      "position": "Mobile Developer",
+      "url":"https://www.emis.com/php/company-profile/EC/Productos_Guerrero_Proguercom_CA_es_9658644.html",
+      "startDate": "01/2021",
+      "endDate": "03/2021",
+      "summary": "Realizaba el desarrollo y mantenimiento de CUUPOM, una aplicación de cupones de descuento para iOS y Android, utilizando principalmente React Native. Esto implica la integración de herramientas como Firebase (FireStore, FirebaseAuth), Google Cloud (Google Auth) y Facebook SDK. Además, desarrollo aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, ReactJS y Firebase.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Instituto Superior Tecnológico José Ochoa León",
+      "position": "Jr Frontend Developer",
+      "url":"https://web.archive.org/web/20201031223921/http://www.istjol.edu.ec/",
+      "startDate": "04/2018",
+      "endDate": "05/2018",
+      "summary": "Participé en la maquetación y desarrollo del sitio web informativo del Instituto Superior Tecnológico 'José Ochoa León', utilizando tecnologías como HTML, CSS, Bootstrap, jQuery y JavaScript.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Instituto Superior Tecnológico 'José Ochoa León'",
+    "url": "https://instipp.edu.ec/",
+    "area": "TECNOLOGO EN ANALISIS DE SISTEMAS",
+    "studyType": "Bachelor",
+    "startDate": "2016",
+    "endDate": "2019",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [
+    {
+      "name": "Ionic",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Capacitor",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Sass",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "A2"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fundación FUNCAA",
+      "isActive": true,
+      "description": "Web administrable informativa para la Fundación Corazón de Amor en Acción.",
+      "highlights": [
+        "Web",
+        "Diseño web",
+        "Manejo de multimedia"
+      ],
+      "url": "https://www.funcaa-ecuador.org"
+    },
+    {
+      "name": "The Aroma Trace",
+      "isActive": true,
+      "description": "Actualización y mantenimiento de la aplicación de la aplicación principal The Aroma Trace",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Domótica"
+      ],
+      "url": "https://thearomatrace.com"
+    },
+    {
+      "name": "Benítez on the Road",
+      "isActive": true,
+      "description": "Aplicación para ver y reservar modelos de vehículos de Benitez Chrysler Humacao.",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Stripe"
+      ],
+      "url": "https://apps.apple.com/us/app/ben%C3%ADtez-on-the-road/id1630843580"
+    },
+    {
+      "name": "AudioStories",
+      "isActive": false,
+      "description": "Aplicación de audiolibros que promueve la literatura clásica ecuatoriana",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Audiolibros"
+      ],
+      "url": "https://audiostories.site/"
+    },
+    {
+      "name": "Oh! Foodie",
+      "isActive": false,
+      "description": "Aplicación que permite ver información de restaurantes, los platos, ubicación y reservas.",
+      "highlights": [
+        "Android",
+        "iOS",
+        "NativApps"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "VibesOn - Sharing economy App",
+      "isActive": false,
+      "description": "Aplicación de economía colaborativa que conecta a anfitriones y asistentes, permitiendo descubrir fiestas y experiencias exclusivas",
+      "highlights": [
+        "Eventos",
+        "MyCodedMind",
+        "Android",
+        "iOS"
+      ],
+      "url": "https://vibeson.app/"
+    }
+  ]
+}
