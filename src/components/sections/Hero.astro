@@ -28,7 +28,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
-  { Astro.url.pathname == '/en' ?  <a href="/" class="link" >Español</a> : <a href="/en" class="link">English</a>}
+  { Astro.url.pathname == '/en' ?  <a href="/" class="link" >Español</a> : <a href="/en/" class="link">English</a>}
   <div class="container">
     <div class="info">
       <h1>{name}</h1>
