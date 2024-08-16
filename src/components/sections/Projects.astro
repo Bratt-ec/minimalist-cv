@@ -15,7 +15,7 @@ const { projects } = dataCV(Astro.url.pathname)
               <article>
                 <header>
                   <h3>
-                    <a href={url} target="_blank" title={`Ver el proyecto ${name}`}>
+                    <a href={url} target="_blank" title={`Ver el proyecto ${name}`} rel="noopener noreferrer">
                       {name}
                     </a>
                     {isActive && <span>•</span>}
