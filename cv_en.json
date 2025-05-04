@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bryan Alejandro Castro",
-    "label": "Full Stack & Mobile Developer with over 3 years of experience",
+    "label": "Full Stack & Mobile Developer with over 4 years of experience",
     "image": "/me.webp",
     "email": "info@bryancastro.dev",
     "phone": "+593 989298066",
     "url": "https://bryancastro.dev",
-    "summary": "+3 years of experience as a Software Developer. Currently, I am a Frontend & Mobile Developer at MyCodedMind. I live in Cuenca, Ecuador. I have worked in various environments: from mobile application development and deployment, web systems, to the creation of REST APIs, using different technologies.",
+    "summary": "+4 years of experience as a Software Developer. Currently, I am a Principal Frontend & Mobile Developer at MyCodedMind. I live in Cuenca, Ecuador. I have worked in various environments: from mobile application development and deployment, web systems, to the creation of REST APIs, using different technologies.",
     "location": {
       "address": "",
       "postalCode": "010101",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "MyCodedMind",
-      "position": "Frontend & Mobile Developer",
+      "position": "Principal Frontend & Mobile Developer",
       "url": "https://mycodedmind.com/agency",
       "startDate": "05/2021",
       "endDate": null,
@@ -84,18 +84,32 @@
       ]
     }
   ],
-  "education": [{
-    "institution": "Instituto Superior Tecnológico 'José Ochoa León'",
-    "url": "https://instipp.edu.ec/",
-    "area": "SYSTEM ANALYSIS TECHNOLOGIST",
-    "studyType": "Bachelor",
-    "startDate": "2016",
-    "endDate": "2019",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Universidad de Especialidades Espíritu Santo",
+      "url": "https://online.uees.edu.ec/grado/ciencias-de-la-computacion-online",
+      "area": "BACHELOR OF SCIENCE COMPUTER ENGINEERING",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2025",
+      "endDate": "Current",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Instituto Superior Tecnológico 'José Ochoa León'",
+      "url": "https://instipp.edu.ec/",
+      "area": "SYSTEM ANALYSIS TECHNOLOGIST",
+      "studyType": "Bachelor",
+      "startDate": "2016",
+      "endDate": "2019",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Ionic",
@@ -200,6 +214,43 @@
     }
   ],
   "projects": [
+    {
+      "name": "Academia Follow",
+      "isActive": true,
+      "description": "E-learning for learning digital marketing and seo",
+      "highlights": [
+        "E-learning",
+        "Web Design",
+        "Multimedia Management"
+      ],
+      "url": "https://academiafollow.com"
+    },
+    {
+      "name": "KEA Guarderia",
+      "isActive": true,
+      "description": "Application for managing alerts, events, student permissions, etc.",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Application",
+        "School Management"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=kea.parents.clients.mcm"
+    },
+    {
+      "name": "My Beauty Club",
+      "isActive": true,
+      "description": "Loyalty program application for Las Fragancias Perfumerías, Burbujas Beauty Shop and Secretos & Baño.",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Application",
+        "Customer loyalty"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.beautyclub.fragancias.mcm"
+    },
     {
       "name": "Fundación FUNCAA",
       "isActive": true,

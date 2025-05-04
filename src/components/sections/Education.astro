@@ -1,23 +1,27 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { dataCV } from "@/utils/cv"
-const { education } = dataCV(Astro.url.pathname)
+import { dataCV } from "@/utils/cv";
+const { education } = dataCV(Astro.url.pathname);
 ---
 
 <Section title="Educación">
   <ul>
     {
-      education.map(({ institution, startDate, endDate, area }) => {
-        const endYear = endDate != null ? endDate : "Actual"
-        const years = `${startDate} - ${endYear}`
+      education.map(({ institution, startDate, endDate, area,url }) => {
+        const endYear = endDate != null ? endDate : "Actual";
+        const years = `${startDate} - ${endYear}`;
 
         return (
           <li>
             <article>
               <header>
                 <div>
-                  <h3>{institution}</h3>
+                  <h3>
+                    <a href={url} target="_blank" rel="noopener noreferrer">
+                      {institution}
+                    </a>
+                  </h3>
                 </div>
 
                 <time>{years}</time>
@@ -28,7 +32,7 @@ const { education } = dataCV(Astro.url.pathname)
               </footer>
             </article>
           </li>
-        )
+        );
       })
     }
   </ul>

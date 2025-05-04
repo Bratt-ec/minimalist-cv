@@ -44,12 +44,14 @@ console.log(Astro.url.origin);
       </footer>
       <footer class="no-print">
         <a
+          class="buy-subscription"
           href="https://bryancastro.dev"
           title="Visitar el sitio web de Bryan"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <UrlWeb />
+              <UrlWeb />
+           { Astro.url.pathname.includes('en') ? <span>Buy subscription</span> : <span>Adquirir subscripción</span>}
         </a>
         {
           email && (
@@ -100,6 +102,24 @@ console.log(Astro.url.origin);
 </Section>
 
 <style>
+
+  footer .buy-subscription {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    width: 180px;
+    background: #273746db;
+    color: #fff;
+  }
+
+  footer .buy-subscription:hover {
+    background: #273746db;
+    color: #fff;
+  }
+
+  .buy-subscription span {
+    color: #fff;
+  }
   .container {
     display: flex;
     flex-direction: row;

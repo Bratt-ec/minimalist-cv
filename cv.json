@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bryan Alejandro Castro",
-    "label": "Full Stack & Mobile Developer con más de 3 años de experiencia",
+    "label": "Full Stack & Mobile Developer con más de 34 años de experiencia",
     "image": "/me.webp",
     "email": "info@bryancastro.dev",
     "phone": "+593 989298066",
     "url": "https://bryancastro.dev",
-    "summary": "+3 años de experiencia como Software Developer. Actualmente soy Frontend & Mobile Developer en MyCodedMind. Vivo en Cuenca, Ecuador. He trabajado en diferentes entornos: desde el desarrollo y despliegue de aplicaciones móviles, sistemas web, hasta la elaboración de API's REST, usando diferentes tecnologías.",
+    "summary": "+4 años de experiencia como Software Developer. Actualmente soy Principal Frontend & Mobile Developer en MyCodedMind. Vivo en Cuenca, Ecuador. He trabajado en diferentes entornos: desde el desarrollo y despliegue de aplicaciones móviles, sistemas web, hasta la elaboración de API's REST, usando diferentes tecnologías.",
     "location": {
       "address": "",
       "postalCode": "010101",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "MyCodedMind",
-      "position": "Frontend & Mobile Developer",
+      "position": "Principal Frontend & Mobile Developer",
       "url": "https://mycodedmind.com/agency",
       "startDate": "05/2021",
       "endDate": null,
@@ -64,7 +64,7 @@
     {
       "name": "Proguercom C.A",
       "position": "Mobile Developer",
-      "url":"https://www.emis.com/php/company-profile/EC/Productos_Guerrero_Proguercom_CA_es_9658644.html",
+      "url": "https://www.emis.com/php/company-profile/EC/Productos_Guerrero_Proguercom_CA_es_9658644.html",
       "startDate": "01/2021",
       "endDate": "03/2021",
       "summary": "Realizaba el desarrollo y mantenimiento de CUUPOM, una aplicación de cupones de descuento para iOS y Android, utilizando principalmente React Native. Esto implica la integración de herramientas como Firebase (FireStore, FirebaseAuth), Google Cloud (Google Auth) y Facebook SDK. Además, desarrollo aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, ReactJS y Firebase.",
@@ -75,7 +75,7 @@
     {
       "name": "Instituto Superior Tecnológico José Ochoa León",
       "position": "Jr Frontend Developer",
-      "url":"https://web.archive.org/web/20201031223921/http://www.istjol.edu.ec/",
+      "url": "https://web.archive.org/web/20201031223921/http://www.istjol.edu.ec/",
       "startDate": "04/2018",
       "endDate": "05/2018",
       "summary": "Participé en la maquetación y desarrollo del sitio web informativo del Instituto Superior Tecnológico 'José Ochoa León', utilizando tecnologías como HTML, CSS, Bootstrap, jQuery y JavaScript.",
@@ -84,108 +84,163 @@
       ]
     }
   ],
-  "education": [{
-    "institution": "Instituto Superior Tecnológico 'José Ochoa León'",
-    "url": "https://instipp.edu.ec/",
-    "area": "TECNOLOGO EN ANALISIS DE SISTEMAS",
-    "studyType": "Bachelor",
-    "startDate": "2016",
-    "endDate": "2019",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Universidad de Especialidades Espíritu Santo",
+      "url": "https://online.uees.edu.ec/grado/ciencias-de-la-computacion-online",
+      "area": "INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN",
+      "studyType": "Ingeniería",
+      "startDate": "2025",
+      "endDate": "Actual",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Instituto Superior Tecnológico 'José Ochoa León'",
+      "url": "https://instipp.edu.ec/",
+      "area": "TECNOLOGO EN ANALISIS DE SISTEMAS",
+      "studyType": "Bachelor",
+      "startDate": "2016",
+      "endDate": "2019",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Ionic",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "Capacitor",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "Flutter",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "Angular",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Sass",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -200,6 +255,43 @@
     }
   ],
   "projects": [
+    {
+      "name": "Academia Follow",
+      "isActive": true,
+      "description": "E-learning para aprender Marketing Digital y SEO.",
+      "highlights": [
+        "E-learning",
+        "Web Design",
+        "Multimedia Management"
+      ],
+      "url": "https://academiafollow.com"
+    },
+    {
+      "name": "KEA Guarderia",
+      "isActive": true,
+      "description": "Aplicación para docentes y padres de familia de la guardería KEA.",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Application",
+        "School Management"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=kea.parents.clients.mcm"
+    },
+    {
+      "name": "My Beauty Club",
+      "isActive": true,
+      "description": "Aplicación para la fidelizacón de clientes de Las Fragancias Perfumerías, Burbujas Beauty Shop and Secretos & Baño.",
+      "highlights": [
+        "MyCodedMind",
+        "Android",
+        "iOS",
+        "Application",
+        "Customer loyalty"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.beautyclub.fragancias.mcm"
+    },
     {
       "name": "Fundación FUNCAA",
       "isActive": true,
