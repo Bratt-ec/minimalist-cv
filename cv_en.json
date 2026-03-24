@@ -28,12 +28,23 @@
     ]
   },
   "work": [
+        {
+      "name": "AcidLabs",
+      "position": "Senior Frontend & Mobile Developer",
+      "url": "https://acidlabs.com/",
+      "startDate": "05/2021",
+      "endDate": null,
+      "summary": "Development and management of a multi-commerce application for Android and iOS using technologies like Flutter, Angular, RxJS, Ionic, Capacitor and TypeScript. Responsible for implementing applications on Google Play and the App Store, maintaining and updating legacy code, and integrating various tools and platforms.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
     {
       "name": "MyCodedMind",
       "position": "Principal Frontend & Mobile Developer",
       "url": "https://mycodedmind.com/agency",
       "startDate": "05/2021",
-      "endDate": null,
+      "endDate": "01/2026",
       "summary": "We use the SCRUM methodology for project development. I specialize in developing mobile applications for Android and iOS using technologies like Flutter, Angular, RxJS, Ionic, Capacitor, and TypeScript. My responsibilities include implementing applications on Google Play and the App Store, maintaining and updating legacy code, and integrating various tools and platforms, including Google Cloud Console, Google Analytics, Firebase, Facebook SDK, in-app purchases, AppleID, Stripe, and push and local notifications.",
       "highlights": [
         "Started the company"
